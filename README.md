@@ -123,7 +123,7 @@ $ octodns-sync --config-file=./config/production.yaml
 ...
 ```
 
-```
+```JSX
 import Head from 'next/head'
 import Cover from '../components/Cover'
 import Loggin from '../components/Loggin'
