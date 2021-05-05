@@ -107,7 +107,7 @@ Further information can be found in [Records Documentation](/docs/records.md).
 
 We're ready to do a dry-run with our new setup to see what changes it would make. Since we're pretending here we'll act like there are no existing records for `example.com.` in our accounts on either provider.
 
-```
+```react
 $ octodns-sync --config-file=./config/production.yaml
 ...
 ********************************************************************************
